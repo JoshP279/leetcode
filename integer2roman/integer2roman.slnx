@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="integer2roman.vcxproj" Id="89c60dc9-bbae-46ef-a7c6-423664078247" />
+</Solution>

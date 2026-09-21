@@ -1,0 +1,247 @@
+# ============================================================
+# C++ / Visual Studio / CMake
+# ============================================================
+
+# ------------------------------------------------------------
+# Visual Studio user-specific files
+# ------------------------------------------------------------
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio local history / caches
+.vshistory/
+**/.localhistory/
+ipch/
+*.ncb
+*.opensdf
+*.sdf
+*.opendb
+
+# ReSharper / CodeRush
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+**/.cr/personal
+
+# ------------------------------------------------------------
+# Visual Studio build output
+# ------------------------------------------------------------
+
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+[Oo]bj/
+[Oo]ut/
+[Bb]in/
+
+bld/
+x64/
+x86/
+ARM/
+ARM64/
+ARM64EC/
+Win32/
+
+# Catch build directories regardless of capitalization / nesting
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Oo]bj/
+**/[Oo]ut/
+**/[Bb]in/
+
+# ------------------------------------------------------------
+# C / C++ compiler & linker output
+# ------------------------------------------------------------
+
+*.o
+*.obj
+*.lo
+*.slo
+
+*.a
+*.lib
+*.la
+*.lai
+
+*.so
+*.so.*
+*.dylib
+*.dll
+
+*.exe
+*.out
+*.app
+
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+
+# Precompiled headers
+*.pch
+*.gch
+
+# Visual C++ intermediate files
+*.aps
+*.tlog
+*.res
+*.sbr
+*.tlb
+*.tli
+*.tlh
+
+# C++ compiler dependency files
+*.d
+
+# ------------------------------------------------------------
+# CMake
+# ------------------------------------------------------------
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Common CMake build directories
+build/
+Build/
+build-*/
+cmake-build-*/
+
+# CMake user presets / local state
+CMakeUserPresets.json
+
+# ------------------------------------------------------------
+# Debuggers / profilers / diagnostics
+# ------------------------------------------------------------
+
+*.dwo
+*.psess
+*.vsp
+*.vspx
+*.e2e
+*.coverage
+*.coveragexml
+
+# ------------------------------------------------------------
+# Temporary / backup / editor files
+# ------------------------------------------------------------
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+*.cache
+*~
+~$*
+
+# ------------------------------------------------------------
+# Test output
+# ------------------------------------------------------------
+
+Testing/
+[Tt]est[Rr]esult*/
+*.trx
+TestResult.xml
+nunit-*.xml
+
+# ------------------------------------------------------------
+# Package / dependency managers
+# ------------------------------------------------------------
+
+vcpkg_installed/
+.vcpkg/
+
+# NuGet (only relevant if you happen to use it)
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# ------------------------------------------------------------
+# Coverage / analysis tools
+# ------------------------------------------------------------
+
+coverage/
+coverage*.json
+coverage*.xml
+coverage*.info
+
+OpenCover/
+BenchmarkDotNet.Artifacts/
+
+# ------------------------------------------------------------
+# Visual Studio add-ons / misc.
+# ------------------------------------------------------------
+
+*.vspscc
+*.vssscc
+*.scc
+*.pidb
+*.svclog
+*.rsp
+
+# Keep directory-level MSBuild configuration if you use it
+!Directory.Build.rsp
+
+# Visual Studio generated files
+Generated\ Files/
+
+# ------------------------------------------------------------
+# MSBuild
+# ------------------------------------------------------------
+
+*.binlog
+MSBuild_Logs/
+
+# ------------------------------------------------------------
+# Visual Studio installer / package output
+# ------------------------------------------------------------
+
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# ------------------------------------------------------------
+# Miscellaneous generated files
+# ------------------------------------------------------------
+
+*.mod
+*.smod
+*.meta
+*.jfm
+*.publish.xml
+*.pubxml
+
+# ------------------------------------------------------------
+# Environment / secrets
+# ------------------------------------------------------------
+
+.env
+.env.*
+!.env.example
+
+# ------------------------------------------------------------
+# OS junk
+# ------------------------------------------------------------
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
