@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="same_tree.vcxproj" Id="1eab0a67-ea0b-4673-a04e-510f461c0c1e" />
+  <Project Path="convert_sorted_array_to_binary_search_tree.vcxproj" />
 </Solution>
