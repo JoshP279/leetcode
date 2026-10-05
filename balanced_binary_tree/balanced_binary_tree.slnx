@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="max_depth_of_binary_tree.vcxproj" Id="a7f689b4-e881-40da-92e0-cf4543fd90ff" />
+  <Project Path="balanced_binary_tree.vcxproj" />
 </Solution>
